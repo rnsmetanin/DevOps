@@ -54,3 +54,6 @@
 ## Дополнительные материалы
 
 1. [x] [Модуль 4. Скриптовые языки и языки разметки: Python, Bash, YAML, JSON](https://github.com/netology-code/sysadm-homeworks/tree/master/04-script-03-yaml/additional-info)
+
+
+.gitignor`

@@ -95,7 +95,6 @@
 
 ### Еще снимки экранов
 
-![app.PNG](screenshots/app.PNG)
 ![pipeline.PNG](screenshots/pipeline.PNG)
 ![gitlab_2.PNG](screenshots/gitlab_2.PNG)
 ![alertmanager.PNG](screenshots/alertmanager.PNG )

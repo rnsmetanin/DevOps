@@ -15,7 +15,7 @@ Ubuntu
 |--------------|-----------------------------|------------------------------------------------|
 | php_modules | [ 'php-curl', 'php-gd', 'php-mbstring', 'php-xml', 'php-xmlrpc', 'php-soap', 'php-intl', 'php-zip' ] | Зависимости php|
 | app_packages | [ 'apache2', 'python3-pymysql', 'php', 'php-mysql', 'libapache2-mod-php', 'git' ] | Зависимости wordpress |
-| http_host | "app.apvanyushin.ru" | host apache2 |
+| http_host | "app.rnsmetanin.ru" | host apache2 |
 | http_port | "80" | port apache2 |
 | db_host | "db01" | Имя хоста БД для подключения wordpress |
 | mysql_user| "wordpress" | Пользователь для подключения к БД |
